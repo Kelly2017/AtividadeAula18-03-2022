@@ -27,9 +27,9 @@
                 $nota4="num4"
                 
 
-                $media = ($nota1 + $nota2 + $nota3 + $nota4)/4;
+                $media = ($nota1 + $nota2 + $nota3 + $nota4)/4
                 
-                echo "Média dos alunos: .$media.";
+                echo "Média dos alunos: $media";
             ?>
             </body>
 </html>
