@@ -21,12 +21,12 @@
             </form>
                
             <?php 
-                $num1 = $_GET['num1'];
-                $num2 = $_GET['num2'];
-                $num3 = $_GET['num3'];
-                $num4 = $_GET['num4'];
+                $nota1="num1"
+                $nota2="num2"
+                $nota3="num3"
+                $nota4="num4"
                 
-                $media = ($num1 + $num2 + $num3 + $num4)/4;
+                $media = ($nota1 + $nota2 + $nota3 + $nota4)/4;
                 
                 echo "Média: $media";
             ?>
