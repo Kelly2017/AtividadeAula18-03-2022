@@ -21,7 +21,7 @@
             </form>
                
             <?php 
-                $nota1="num1"
+                $nota1 = $_GET['num1'];
                 $nota2="num2"
                 $nota3="num3"
                 $nota4="num4"
