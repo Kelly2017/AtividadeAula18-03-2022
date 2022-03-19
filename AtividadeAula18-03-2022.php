@@ -21,7 +21,7 @@
             </form>
                
             <?php 
-                $nota1 = $_GET['num1'];
+                $nota1="num1"
                 $nota2="num2"
                 $nota3="num3"
                 $nota4="num4"
@@ -29,7 +29,7 @@
 
                 $media = ($nota1 + $nota2 + $nota3 + $nota4)/4
                 
-                echo "Média dos alunos: $media";
+                echo "Média dos alunos: " .$media. "<br>";
             ?>
             </body>
 </html>
