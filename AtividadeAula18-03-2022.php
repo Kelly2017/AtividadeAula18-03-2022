@@ -10,7 +10,7 @@
 
             <body>
                 <h3>Calculadora média Aluno</h3>
-            </body>
+
 
             <form action='home.php' method="get">
                 Nota 1: <input type="number" name="num1"><br>
@@ -30,5 +30,5 @@
                 
                 echo "Média: $media";
             ?>
-
+            </body>
 </html>
